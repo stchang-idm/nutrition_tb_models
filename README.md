@@ -1,4 +1,4 @@
-# nutrition_tb_models
+# Nutrition-TB Modeling Literature
 
 This repository contains key literature on the relationship between undernutrition and tuberculosis (TB), with a focus on modeling studies and burden estimation methods. The emphasis is on work relevant to India, where both TB burden and undernutrition remain high.
 
