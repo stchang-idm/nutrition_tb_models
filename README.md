@@ -5,7 +5,7 @@ This repository contains key literature on the relationship between undernutriti
 These references support the presentation:
 
 **“Modelling the Impact of Nutrition on TB”**  
-Presented by Stewart Chang (remotely)
+Presented by Stewart Chang (remotely)  
 April 2025, Nutrition-TB Workshop, India
 
 ---
